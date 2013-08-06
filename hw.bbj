@@ -5,3 +5,6 @@ REM  *
 REM  */
 
 ? "Hello World"
+
+
+print "**** ENDE *****"
