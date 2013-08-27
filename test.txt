@@ -10,7 +10,7 @@ added this line
 
 test Eclipse
 
-something else to make a conflict 
+something else to make a  
 Andreas test
 
 
